@@ -11,7 +11,7 @@ There is a file called PS4.zip below. This file comes equip with the following:
 4. This save does NOT come with all pets/cosmetics, as this is a NON-modded save.
 5. *****THIS SAVE IS FOR THE LEGIT PLAYERS*****
 6. ENJOY!!!!!
-7. ( JUST RESIGN THIS SAVE TO YOUR ACCOUNT, AND USE! ) DOWNLOAD>> [PS4.zip](https://github.com/xXTheDevilsSonXx/SeasonalSavesPS4/files/8536749/PS4.zip)
+7. ( JUST RESIGN THIS SAVE TO YOUR ACCOUNT, AND USE! ) ***DOWNLOAD>>*** [PS4.zip](https://github.com/xXTheDevilsSonXx/SeasonalSavesPS4/files/8536749/PS4.zip)
 
 ***** I WILL BE ADDING A S26 MODDED SAVE, ABSOLUTELY FULL OF STUFF TOMORROW! *****
 
