@@ -40,7 +40,7 @@ There is a file called [S26 MODDED-NON-MODDED PS4 SAVES.zip] below. This file co
 
 
 
-                               <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< NON-MODDED S26 PS4 SEASONAL SAVE >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+           <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< NON-MODDED S26 PS4 SEASONAL SAVE >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
                                
                                
 
@@ -52,7 +52,7 @@ There is a file called [S26 MODDED-NON-MODDED PS4 SAVES.zip] below. This file co
 *****THIS SAVE IS FOR THE LEGIT PLAYERS*****
 
 
-                               <<<<<<<<<<<<<<<<<<<<<<<<<<<<< MODDED S26 PS4 SEASONAL/NON SEASONAL SAVE >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+           <<<<<<<<<<<<<<<<<<<<<<<<<<<<< MODDED S26 PS4 SEASONAL/NON SEASONAL SAVE >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
                                
                                
 
