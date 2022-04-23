@@ -38,7 +38,7 @@ In this repository, you will find seasonal saves that DEEINFLA, and I have worke
 
 There is a file called [S26 MODDED-NON-MODDED PS4 SAVES.zip] below. This file comes equip with the following:
 
-*****************************************<<<<<<<<<<<<<<<< NON-MODDED S26 PS4 SEASONAL SAVE >>>>>>>>>>>>>>>>>>>>********************************************************
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< NON-MODDED S26 PS4 SEASONAL SAVE >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
 1. Seven characters ( 1 of each class ), NON modded in ANY WAY
 2. Each character has sets ON the character itself ( inventory/armed ) of NON-modded primal gear with perfect rolls.
@@ -48,9 +48,12 @@ There is a file called [S26 MODDED-NON-MODDED PS4 SAVES.zip] below. This file co
 *****THIS SAVE IS FOR THE LEGIT PLAYERS*****
 
 
-****************************************<<<<<<<<<<<<<<<<<<< MODDED S26 PS4 SEASONAL/NON SEASONAL SAVE >>>>>>>>>>>>>>>>>>>>>>*******************************************
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< MODDED S26 PS4 SEASONAL/NON SEASONAL SAVE >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
 
 ***** THIS MODDED FILE COMES EQUIP WITH THE CHARACTERS PICTURED ABOVE, AND EVERYTHING LISTED BELOW!!!! *****
+
+
 
 1. PRE-MADE GEAR ON EACH TOON, MADE ONLY BY ME!
 2. 3 STACKS OF 999,999,999 PETRIFIED SCREAMS ON EACH TOON, INCLUDING NON-SEASONAL TOONS!
