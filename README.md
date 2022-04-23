@@ -36,20 +36,50 @@ This is a repository for PS4 Seasonal saves, Able to be resigned by Save Wizard.
 
 In this repository, you will find seasonal saves that DEEINFLA, and I have worked together in creating for the public.
 
-There is a file called PS4.zip below. This file comes equip with the following:
+There is a file called [S26 MODDED-NON-MODDED PS4 SAVES.zip] below. This file comes equip with the following:
+
+********************************************************* NON-MODDED S26 PS4 SEASONAL SAVE *********************************************************************
 
 1. Seven characters ( 1 of each class ), NON modded in ANY WAY
 2. Each character has sets ON the character itself ( inventory/armed ) of NON-modded primal gear with perfect rolls.
 3. There is NOT a modded stash on this save, as this is a NON modded save.
 4. This save does NOT come with all pets/cosmetics, as this is a NON-modded save.
-5. *****THIS SAVE IS FOR THE LEGIT PLAYERS*****
-6. ENJOY!!!!!
-7. ( JUST RESIGN THIS SAVE TO YOUR ACCOUNT, AND USE! ) ***DOWNLOAD>>*** [S26 MODDED-NON-MODDED PS4 SAVES.zip](https://github.com/xXTheDevilsSonXx/SeasonalD3SavesForPS4/files/8545315/S26.MODDED-NON-MODDED.PS4.SAVES.zip)
+
+*****THIS SAVE IS FOR THE LEGIT PLAYERS*****
 
 
-***** I WILL BE ADDING A S26 MODDED SAVE, ABSOLUTELY FULL OF STUFF TODAY!! *****
+********************************************************** MODDED S26 PS4 SEASONAL/NON SEASONAL SAVE *****************************************************************
+
+***** THIS MODDED FILE COMES EQUIP WITH THE CHARACTERS PICTURED ABOVE, AND EVERYTHING LISTED BELOW!!!! ************************
+
+1. PRE-MADE GEAR ON EACH TOON, MADE ONLY BY ME!
+2. 3 STACKS OF 999,999,999 PETRIFIED SCREAMS ON EACH TOON, INCLUDING NON-SEASONAL TOONS!
+3. ALL PETS UNLOCKED
+4. ALL WINGS UNLOCKED
+5. ALL FRAMES UNLOCKED
+6. A STACK OF 999,999,999 GREATER RIFT KEYS
+7. A STACK OF 999,999,999 GOLD
+8. ALL CRAFTING MATERIALS MAXED
+9. CUBE UNLOCKED ON BOTH SEASONAL AND NON-SEASONAL
+10. ALL CUBE POWERS UNLOCKED
+11. ALL ARTISANS MAXED
+12. ALL TRANSMOGS UNLOCKED
+13. ALL CRAFTING PLANS UNLOCKED
+14. 8 MODDED SEASONAL TOONS ( 7 SOFTCORE, 1 HARDCORE ), 3 NORMAL NON-SEASONAL TOONS ( MONK, DH, BARB ), 6 OPEN SLOTS; FOR A TOTAL OF 17 SLOTS!
+15. KICK-ASS VISUAL EFFECTS ON ALL TOONS, DONE ONLY BY ME!
+16. ALL TOONS ARE POSITIVE STAT-MODDED!!!!
+17. OVER 1,000 YARDS OF PICKUP RADIUS ON ALL TOONS!
+
+#######################################################################################################################################################################
+
+ENJOY!!!!!
+( JUST RESIGN THIS SAVE TO YOUR ACCOUNT, AND USE! ) ***DOWNLOAD>>*** [S26 MODDED-NON-MODDED PS4 SAVES.zip](https://github.com/xXTheDevilsSonXx/SeasonalD3SavesForPS4/files/8545315/S26.MODDED-NON-MODDED.PS4.SAVES.zip)
+
+#######################################################################################################################################################################
 
 ***** EACH SEASON, I WILL BE POSTING SEASONAL SAVES FOR DIABLO 3 IN THIS REPOSITORY. THERE WILL BE A MODDED SEASONAL SAVE WITH GEAR, AND A NON-MODDED SEASONAL SAVE WITH GEAR IN HERE, FOR PUBLIC USE. *****
+
+#######################################################################################################################################################################
 
 >>>>>>>>>> WARNING!!!!!! <<<<<<<<<
 
