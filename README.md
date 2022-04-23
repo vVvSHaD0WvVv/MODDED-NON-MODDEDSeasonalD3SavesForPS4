@@ -58,7 +58,7 @@ There is a file called [S26 MODDED-NON-MODDED PS4 SAVES.zip] below. This file co
 4. ALL WINGS UNLOCKED
 5. ALL FRAMES UNLOCKED
 6. A STACK OF 999,999,999 GREATER RIFT KEYS
-7. A STACK OF 999,999,999 GOLD
+7. A STACK OF 2,147,483,647 GOLD
 8. ALL CRAFTING MATERIALS MAXED
 9. CUBE UNLOCKED ON BOTH SEASONAL AND NON-SEASONAL
 10. ALL CUBE POWERS UNLOCKED
@@ -69,6 +69,7 @@ There is a file called [S26 MODDED-NON-MODDED PS4 SAVES.zip] below. This file co
 15. KICK-ASS VISUAL EFFECTS ON ALL TOONS, DONE ONLY BY ME!
 16. ALL TOONS ARE POSITIVE STAT-MODDED!!!!
 17. OVER 1,000 YARDS OF PICKUP RADIUS ON ALL TOONS!
+18. STACK OF 2,147,483,647 BLOOD SHARDS
 
 #######################################################################################################################################################################
 
