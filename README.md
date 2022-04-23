@@ -87,7 +87,14 @@ There is a file called [S26 MODDED-NON-MODDED PS4 SAVES.zip] below. This file co
 #######################################################################################################################################################################
 
 ENJOY!!!!!
-( JUST RESIGN THIS SAVE TO YOUR ACCOUNT, AND USE! ) <<<<<<<<<<<<<< DOWNLOAD >>>>>>>>>>>>> [S26 MODDED-NON-MODDED PS4 SAVES.zip](https://github.com/xXTheDevilsSonXx/SeasonalD3SavesForPS4/files/8545315/S26.MODDED-NON-MODDED.PS4.SAVES.zip)
+( JUST RESIGN THIS SAVE TO YOUR ACCOUNT, AND USE! ) 
+
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< DOWNLOAD >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 
+
+
+
+[S26 MODDED-NON-MODDED PS4 SAVES.zip](https://github.com/xXTheDevilsSonXx/SeasonalD3SavesForPS4/files/8545315/S26.MODDED-NON-MODDED.PS4.SAVES.zip)
 
 #######################################################################################################################################################################
 
